@@ -44,6 +44,21 @@ Currently, I am expanding my expertise into **Backend Development**, building fu
 * **Process & Collaboration:** Agile / Scrum, Backlog Prioritization, Task Refinement, Cross-functional Collaboration.
 * **Design & SEO:** Figma, Core Web Vitals, SSR / SSG / ISR, Technical SEO.
 
+---
+
+## 🏗️ Architectural Core & System Design Focus
+
+* **Rendering & Hydration Strategies:** Advanced execution of Next.js configurations using SSR, SSG, ISR, and Partial Prererendering (PPR) to minimize Time-to-First-Byte (TTFB).
+* **Network & Data Streaming:** Expert implementation of REST, tRPC, WebSockets, and **Server-Sent Events (SSE)** for continuous real-time data streaming and AI model outputs.
+* **State Orchestration & Integration Testing:** Author and maintainer of lightweight global state solutions, heavily leveraging tools like **Antigravity** combined with autonomous AI agent testing loops.
+* **Performance Engineering:** Mastering the **Critical Rendering Path**, aggressive bundle splitting, code splitting, critical CSS generation, and DOM Windowing to maintain perfect Core Web Vitals.
+* **Backend for Frontend (BFF):** Designing efficient Node.js BFF layers to aggregate APIs, reduce data payloads, and isolate client-side logic from raw backend microservices.
+
+---
+
+## 🤖 AI-Driven Engineering Culture
+
+I operate as a **System Orchestrator and Architectural Controller**. My daily workflow leverages multi-agent setups (Cursor, Claude Code) where complex product requirements are broken into sub-tasks and delegated to specialized AI agents. I maintain full architectural ownership, using deep foundational domain knowledge to audit, debug, and run precise diagnostic isolation tests on generated blocks.
 
 ### 📫 **Connect with Me**
 
