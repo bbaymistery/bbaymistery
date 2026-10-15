@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Senior+Frontend+Engineer;React+%26+Next.js+Specialist;Full-Stack+Architect+(NestJS+%2F+PostgreSQL)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&height=50&lines=Senior+Frontend+Engineer;React+%26+Next.js+Specialist;Full-Stack+Engineer+(NestJS);High-Performance+Web+Systems" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -8,59 +8,83 @@
 
 ### **Senior Software Engineer | React, Next.js & Modern Full-Stack**
 
-Product-focused Senior Software Engineer with over **5 years of commercial experience** designing scalable, high-performance web systems and high-throughput transactional flows. For the past 4+ years, I have engineered mission-critical platforms for **London-based companies**, including architecting the core booking engine for [aplcars.com](https://aplcars.com).
+Product-focused **Senior Software Engineer** with over **5+ years of commercial experience** architecting resilient, scalable web platforms and high-throughput transactional workflows. For the past 4+ years, I have engineered mission-critical platforms for **London-based companies**, including architecting the core real-time booking engine and multi-market localization architecture for [aplcars.com](https://aplcars.com).
 
-Expanding my software architecture into enterprise backend engineering, designing distributed services with **NestJS, PostgreSQL, Prisma, Redis, and AWS**.
+Expanding deep frontend expertise into robust enterprise full-stack engineering—architecting distributed backend services with **NestJS, PostgreSQL, Prisma, Redis, Docker, and AWS (IAM, S3, EC2, RDS, CloudFront)**.
 
 ---
 
 ### 🚀 **Key Highlights**
-* **Frontend Architecture & Scale:** Engineered high-traffic booking, dispatch, and corporate B2B workflows with strict TypeScript and predictive state management.
-* **Web Performance:** Consistently achieving **Lighthouse scores of 90+** using SSR, ISR, aggressive code-splitting, and Core Web Vitals optimization.
-* **Enterprise Backend Evolution:** Building robust backend services with NestJS, clean layered architecture, relational database modeling, and caching layers.
-* **AI-Accelerated Engineering:** Daily leverage of modern AI developer workflows (Cursor, Claude Code, Copilot) to accelerate delivery cycles while maintaining rigorous manual code review and architectural control.
-* **Community Leadership:** Founder & Organizer of **Speak Socially** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/speak__socially/), hosting 200+ international networking events and professional workshops.
+
+* **Frontend Architecture & Scale:** Engineered high-traffic booking, dispatch, and corporate B2B platforms using strict TypeScript, modular design systems, and predictive state pipelines.
+* **Web Performance Engineering:** Consistently achieving **Lighthouse scores of 90+** and optimal Core Web Vitals via advanced SSR/ISR/PPR strategies, dynamic streaming, and aggressive bundle optimization.
+* **Enterprise Backend Architecture:** Designing clean, modular backend systems with NestJS, layered domain-driven design (DDD), relational database modeling, and Redis caching/rate-limiting layers.
+* **AI-Augmented Engineering:** Daily leverage of modern AI developer workflows (Cursor, Claude Code, Model Context Protocol) to accelerate development velocity while enforcing rigorous architectural standards and security audits.
+* **Community Leadership:** Founder & Organizer of **Speak Socially** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/speak__socially/), hosting 200+ international networking events, tech discussions, and professional workshops.
 
 ---
 
-### 🧠 Primary Tech Stack
+### 🧠 **Primary Tech Stack**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
 
 ---
 
 ### 🛠️ **Technical Arsenal**
-* **Frontend Ecosystem:** React 18/19, Next.js (App Router, Server Actions, PPR), TypeScript, Zustand, Redux Toolkit, TanStack Query.
-* **Backend & Persistence:** NestJS, Node.js, Express, PostgreSQL, Prisma ORM, Redis (Caching, Rate-limiting), Message Queues.
-* **Data & Communication:** RESTful APIs, WebSockets, Server-Sent Events (SSE), GraphQL, Zod runtime validation.
-* **Cloud & Infrastructure:** Docker, AWS (S3, EC2 basics), CI/CD (GitHub Actions), Vercel.
-* **Testing & Code Quality:** Vitest, Jest, React Testing Library, Playwright, Strict ESLint/Prettier, Core Web Vitals.
-* **UI & Styling:** Tailwind CSS, Sass/SCSS, Material UI, CSS Modules, Responsive & Accessible Design (WCAG 2.1).
+
+* **Frontend Ecosystem:** React 18/19, Next.js (App Router, Server Actions, PPR, Streaming SSR), TypeScript (Strict), Zustand, Redux Toolkit, RTK Query, TanStack Query.
+* **Backend & Distributed Systems:** NestJS, Node.js, Express.js, Microservices Architecture, RESTful APIs, Message Queues (SQS/Redis), Dependency Injection, Validation Pipes.
+* **Databases & Caching:** PostgreSQL (AWS RDS / Neon DB), MongoDB, Redis (Distributed Caching, Session Management, Rate Limiting), Prisma ORM, TypeORM, Mongoose.
+* **Data, APIs & Real-Time:** WebSockets (Socket.io), Server-Sent Events (SSE), WebRTC (PeerJS), GraphQL, Zod Runtime Validation, MCP (Model Context Protocol).
+* **AWS & Cloud Infrastructure:** AWS (IAM, S3, CloudFront CDN, EC2, RDS PostgreSQL, Route 53, Lambda, CloudWatch), Docker Containerization, CI/CD Automation (GitHub Actions), Vercel & Netlify Production Deployments, Cloudinary.
+* **Testing & Quality Assurance:** Vitest, Jest, React Testing Library, Playwright, Cypress, Strict ESLint/Prettier, Lighthouse & Core Web Vitals Auditing.
+* **UI Engineering & Styling:** Tailwind CSS, Sass/SCSS, Shadcn UI / Radix Primitives, Material UI, CSS Modules, Responsive & Accessible Web Standards (WCAG 2.1).
 
 ---
 
-## 🏗️ Architectural Core & Engineering Philosophy
+### 📂 **Featured Engineering Projects**
+
+| Project | Stack | Key Architectural Features | Source |
+| :--- | :--- | :--- | :---: |
+| **Flipkart Clone** | `React 18` `Node.js` `MongoDB` `Redux Toolkit` | Enterprise e-commerce ecosystem, recursive category tree generator with unlimited nesting, single-request data hydration, atomic cart synchronization, and 4-step guided checkout. | [Code ↗](https://github.com/bbaymistery/mernprojects_/tree/main/2_flipcard) |
+| **V-Network** | `React` `Node.js` `Socket.io` `WebRTC` `Cloudinary` | Full-stack social networking platform with real-time direct chat, P2P video/audio calling via PeerJS, JWT dual-token authentication, and Cloudinary media pipelines. | [Code ↗](https://github.com/bbaymistery/mernprojects_/tree/main/1_social_media) |
+| **NestJS E-Commerce API** | `NestJS` `PostgreSQL` `TypeORM` `Neon DB` | High-performance backend REST API with complex SQL QueryBuilder aggregations, RBAC Guards, circular dependency resolution with `forwardRef`, and automated inventory reconciliation. | [Code ↗](https://github.com/bbaymistery/nest_Ecommerce) |
+
+---
+
+### 🏗️ **Architectural Core & Engineering Philosophy**
 
 * **Resilient Data & State Layers:** Balancing server-side cache invalidation (TanStack Query) with lightweight client stores (Zustand) and strictly typed API contracts (zero `any` policy).
-* **Enterprise Backend Design:** Structuring NestJS applications with clear domain module boundaries, dependency injection, validation pipes, and secure authentication flows (JWT/OAuth).
+* **Enterprise Backend Design:** Structuring NestJS applications with clear domain boundaries, dependency injection, role-based access control (RBAC), and secure token lifecycles (JWT & HttpOnly cookies).
 * **Concurrency & Race Condition Handling:** Enforcing request deduplication, optimistic UI updates, and transaction idempotency across multi-step financial and checkout surfaces.
 * **Performance Engineering:** Optimizing the Critical Rendering Path, DOM windowing, image streaming, and dynamic bundle splitting to maximize runtime speed.
 
 ---
 
-## 🤖 AI-Augmented Development
+### 🤖 **AI-Augmented Development**
 
-I treat AI tooling not as an autopilot, but as a force multiplier. Using multi-agent environments (Cursor, Claude Code), I break complex system requirements into modular tasks, automate unit test suites, and scaffold boilerplate—while personally enforcing strict architectural integrity, security reviews, and edge-case testing.
+I treat AI tooling not as an autopilot, but as a force multiplier. Leveraging multi-agent environments (Cursor, Claude Code, Model Context Protocol), I decompose complex system architectures into clean, modular sub-tasks, accelerate test generation, and scaffold boilerplate—while personally enforcing strict architectural integrity, manual code reviews, and edge-case resilience.
 
 ---
 
 ### 📫 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elgun-ezmemmedov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgun.ezmemmedov@gmail.com)
-[![WhatsApp (AZ)](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/994506330135)
+<p align="left">
+  <a href="https://www.linkedin.com/in/elgun-ezmemmedov-1628a51b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:elgun.ezmemmedov@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/994506330135" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
