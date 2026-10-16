@@ -49,15 +49,6 @@ Expanding deep frontend expertise into robust enterprise full-stack engineering�
 * **UI Engineering & Styling:** Tailwind CSS, Sass/SCSS, Shadcn UI / Radix Primitives, Material UI, CSS Modules, Responsive & Accessible Web Standards (WCAG 2.1).
 
 ---
-
-### 📂 **Featured Engineering Projects**
-
-| Project | Stack | Key Architectural Features | Source |
-| :--- | :--- | :--- | :---: |
-| **Flipkart Clone** | `React 18` `Node.js` `MongoDB` `Redux Toolkit` | Enterprise e-commerce ecosystem, recursive category tree generator with unlimited nesting, single-request data hydration, atomic cart synchronization, and 4-step guided checkout. | [Code ↗](https://github.com/bbaymistery/mernprojects_/tree/main/2_flipcard) |
-| **V-Network** | `React` `Node.js` `Socket.io` `WebRTC` `Cloudinary` | Full-stack social networking platform with real-time direct chat, P2P video/audio calling via PeerJS, JWT dual-token authentication, and Cloudinary media pipelines. | [Code ↗](https://github.com/bbaymistery/mernprojects_/tree/main/1_social_media) |
-| **NestJS E-Commerce API** | `NestJS` `PostgreSQL` `TypeORM` `Neon DB` | High-performance backend REST API with complex SQL QueryBuilder aggregations, RBAC Guards, circular dependency resolution with `forwardRef`, and automated inventory reconciliation. | [Code ↗](https://github.com/bbaymistery/nest_Ecommerce) |
-
 ---
 
 ### 🏗️ **Architectural Core & Engineering Philosophy**
