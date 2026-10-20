@@ -8,6 +8,8 @@
 
 ### **Senior Software Engineer | React, Next.js & Modern Full-Stack**
 
+🌍 **Portfolio:** [elgun.vercel.app](https://elgun.vercel.app/)
+
 Product-focused **Senior Software Engineer** with over **5+ years of commercial experience** architecting resilient, scalable web platforms and high-throughput transactional workflows. For the past 4+ years, I have engineered mission-critical platforms for **London-based companies**, including architecting the core real-time booking engine and multi-market localization architecture for [aplcars.com](https://aplcars.com).
 
 Expanding deep frontend expertise into robust enterprise full-stack engineering—architecting distributed backend services with **NestJS, PostgreSQL, Prisma, Redis, Docker, and AWS (IAM, S3, EC2, RDS, CloudFront)**.
