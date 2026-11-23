@@ -10,9 +10,19 @@
 
 🌍 **Portfolio:** [elgun.vercel.app](https://elgun.vercel.app/) · 📍 Baku, Azerbaijan (UTC+4) · Open to remote
 
-Frontend Engineer with **5+ years of experience** building production web applications with React, Next.js and TypeScript. For four years, I worked remotely for **Airport Pickups London ([aplcars.com](https://aplcars.com))**, where I grew from Junior Next.js Developer to Frontend Engineer and owned the booking and payment flows of an international airport-transfer platform.
+Frontend Engineer with **5+ years of experience** building production web applications with React, Next.js and TypeScript. I started my career at Deirvlon Technologies in Baku, building an e-commerce frontend. Then, for four years, I worked remotely for **Airport Pickups London ([aplcars.com](https://aplcars.com))**, where I grew from Junior Next.js Developer to Frontend Engineer and owned the booking and payment flows of an international airport-transfer platform.
 
 I'm now growing my full-stack skills with **Node.js, NestJS, PostgreSQL and AWS**.
+
+---
+
+### 💼 Experience
+
+| Role | Company | Dates |
+|---|---|---|
+| **Frontend Engineer** | Airport Pickups London ([aplcars.com](https://aplcars.com)) · Remote | Apr 2024 – Apr 2026 |
+| **Junior Next.js Developer** | Airport Pickups London ([aplcars.com](https://aplcars.com)) · Remote | Apr 2022 – Mar 2024 |
+| **Junior React Developer** | Deirvlon Technologies · Baku | Apr 2021 – Nov 2021 |
 
 ---
 
